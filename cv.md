@@ -37,7 +37,7 @@ I'm 15 years old and I don't work for anyone. I want to work in the field of IT,
 * Photoshop and illustrator
 
 # Code Exemples 
-
+```
 <html>
 
 <head>
@@ -89,7 +89,7 @@ I'm 15 years old and I don't work for anyone. I want to work in the field of IT,
 </body>
 
 </html>
-
+```
 # Education
 * haven't finished school yet
 
