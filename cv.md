@@ -2,7 +2,7 @@
 
 # Danil Sinelobov
 
-![Image alt](https://fsx1.itstep.org/api/v1/files/-Vf87AZX8hYJZV7P3BQPcDGUgkFz0m9y)
+![Image alt](https://avatars.githubusercontent.com/u/99581308?s=400&u=83a02fc9bd6421c180739f011710b7aee5bc408d&v=4)
 
 # My Contact Info:
 
