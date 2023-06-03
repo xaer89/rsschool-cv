@@ -2,6 +2,8 @@
 
 # Danil Sinelobov
 
+![Image alt](https://fsx1.itstep.org/api/v1/files/-Vf87AZX8hYJZV7P3BQPcDGUgkFz0m9y)
+
 # My Contact Info:
 
 * Phone: +998 99 725 08 12
