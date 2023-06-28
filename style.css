@@ -1,0 +1,15 @@
+.title {
+    color: #7946a8;
+}
+
+body {
+    color: #a13838;
+    background-color: rgba(15, 233, 70, 0.377);
+}
+
+pre {
+    color: #0f61f8ea;   
+     background-color: rgba(163, 148, 214, 0.678);
+     width: 20%;
+
+}
